@@ -1,4 +1,4 @@
-package com.coralogix.calculator;
+package com.coralogix.calculator.controller;
 
 import com.coralogix.calculator.model.Result;
 import com.coralogix.calculator.services.AddService;
